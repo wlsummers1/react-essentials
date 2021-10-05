@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Updating text again
+          Updating text again!!
         </a>
       </header>
     </div>
